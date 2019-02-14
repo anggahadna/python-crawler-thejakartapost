@@ -35,8 +35,6 @@ The program will automatically create a .txt file in your directory. In this cas
 Singapore Indonesia associations sign MoU on aerospace and astronautics development .txt
 ```
 
---------------
-
 ## Note
 
 To make the code simple, this program doesn't accomodate other cases outside the given above. For example, if you insert url without the protocol, it will result an error.
